@@ -4,9 +4,11 @@
 
 + Turn on Developer mode (in the upper right corner) to install the extension directly into Chrome.
 
-+ Click the "Load Unpacked" button and load the project.
++ Click the "Load Unpacked" button and load the project (extension)/extension.
 
 + Active the loaded extension
+
++ Change the extension info in manijest.json file
 
 ## Test the extension
 
@@ -14,4 +16,4 @@
 
 + Click the item and the window of url is open
 
-The URL of the window now is http://localhost:3000/extension-fc/ + the modified Highlighted text (modified in the file ../js/background.js)
+The URL of the window now is http://localhost:3000/extension-fc/ + the modified Highlighted text (The url can be modified in the file ../js/background.js)
