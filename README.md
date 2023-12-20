@@ -8,7 +8,7 @@
 
 + Active the loaded extension
 
-+ Change the extension info in manijest.json file
++ Optional: Change the extension info in manijest.json file
 
 ## Test the extension
 
